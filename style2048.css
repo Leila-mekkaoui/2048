@@ -1,0 +1,88 @@
+body{
+    font-family: system-ui;
+    background-color: #eaeaea;
+}
+
+.regle{
+    border: 2px solid rgb(142, 142, 144);
+    background-color : #ddd7c9;
+    width: auto;
+    margin : auto;
+    border-radius: 0.3em;
+    padding: 1em;
+    }
+
+.score{
+    margin : auto;
+    font-size: 25px;
+    text-align : center;
+    padding-top: 1em;
+}
+h1{
+    text-align: center;
+    color:#313130;
+}
+
+table{
+    width:200px; 
+    height:200px;
+    border-collapse: collapse;
+    border: 2px solid #eac29a;
+    margin: auto;
+}
+
+td{
+    border: 1px solid rgb(64, 61, 58);
+    text-align: center;
+}
+.bouton{
+    color: rgb(58, 57, 56);
+    background-color: rgb(224, 208, 188);
+    
+}
+
+.centre{
+    text-align: center;
+    padding: 1em;
+}
+
+.zero{
+    background-color: #ddd7c9;
+}
+
+.deux{
+    background-color: #eeed4a;
+}
+
+.quat{
+    background-color: #ede0c8;
+}
+
+.huit{
+    background-color: #f2b179;
+}
+
+.seiz{
+    background-color: #f59963;
+}
+.tren{
+    background-color: #f67c5f;
+}
+.soix{
+    background-color: #f65e3b;
+}
+.cent{
+    background-color: #edcf72;
+}
+.deuc{
+    background-color: #edcc61;
+}
+.cinq{
+    background-color: #edc850;
+}
+.mill{
+    background-color: #edc53f;
+}
+.deum{
+    background-color: #edc22e;
+}
